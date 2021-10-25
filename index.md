@@ -1,25 +1,22 @@
-## Welcome to GitHub Pages
+## Where are you looking
 
-You can use the [editor on GitHub](https://github.com/caterpillowo/caterpillowo.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+why are you here
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Go away
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+there is nothing to see
 
 ```markdown
-Syntax highlighted code block
+how does this work
 
-# Header 1
-## Header 2
-### Header 3
+# 123123123123
+## 234234234234
+### 345345345345
 
-- Bulleted
-- List
+- this is how you make a list
 
-1. Numbered
-2. List
+1. onion
+2. potato
 
 **Bold** and _Italic_ and `Code` text
 
